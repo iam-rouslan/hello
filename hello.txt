@@ -2,3 +2,5 @@ hi!
 New line
 
 Hello, git!
+
+Hello, git rebase!
